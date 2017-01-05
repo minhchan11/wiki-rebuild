@@ -1,0 +1,50 @@
+.logo {
+  width: 100%;
+}
+
+.leftbar {
+  float: left;
+  width: 200px;
+  display: inline-block;
+  height: 100vh;
+  float:left;
+  font-size: 12px;
+}
+
+.the-rest {
+  width: 87%;
+  display: inline-block;
+  height: 100vh;
+  float:right;
+  position: absolute;
+}
+
+.logon-bar {
+  float:right;
+}
+
+.categories {
+  padding-top: 40px;
+}
+
+.well {
+  height: 200px;
+}
+
+.purple {
+  border-color: #c1a6db;
+}
+.purple > .panel-heading {
+  color: #000000;
+  background-color: #c1a6db;
+  border-color: #c1a6db;
+}
+.purple > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #c1a6db;
+}
+.purple > .panel-heading .badge {
+  color: #f2dede;
+  background-color: #c1a6db;
+}
+.purple > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #c1a6db;
