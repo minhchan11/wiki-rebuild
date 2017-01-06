@@ -5,9 +5,7 @@
 .leftbar {
   float: left;
   width: 250px;
-  display: inline-block;
   height: 100vh;
-  float:left;
   font-size: 12px;
 }
 
