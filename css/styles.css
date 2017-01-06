@@ -4,7 +4,7 @@
 
 .leftbar {
   float: left;
-  width: 200px;
+  width: 250px;
   display: inline-block;
   height: 100vh;
   float:left;
@@ -27,7 +27,7 @@
   padding-top: 40px;
 }
 
-.well {
+.set {
   height: 200px;
 }
 
@@ -48,3 +48,24 @@
 }
 .purple > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #c1a6db;
+}
+
+.linkage {
+  float:right;
+}
+
+.photo {
+  height: 150px;
+  float: right;
+  padding: 5px;
+}
+
+.photo2 {
+  float:left;
+  padding: 20px;
+  height: 250px;
+}
+
+ul.side {
+  list-style: none;
+}
